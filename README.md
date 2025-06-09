@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Fernandes</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **GhostComm**
+- 🔭 I’m currently working on **Vibe8**
 
 - 🌱 I’m currently learning **JavaScript, Agentic AI, deep learning**
 
