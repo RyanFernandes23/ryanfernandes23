@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Agentic AI, deep learning**
 
-- 📝 I regularly write articles on [https://medium.com/@ryanferds23](https://medium.com/@ryanferds23)
+- 📝 I write articles on [https://medium.com/@ryanferds23](https://medium.com/@ryanferds23)
 
 - 💬 Ask me about **python, FastAPI**
 
